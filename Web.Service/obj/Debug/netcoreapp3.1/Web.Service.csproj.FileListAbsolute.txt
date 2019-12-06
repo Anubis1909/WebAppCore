@@ -1,0 +1,7 @@
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\bin\Debug\netcoreapp3.1\Web.Service.deps.json
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\bin\Debug\netcoreapp3.1\Web.Service.dll
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\obj\Debug\netcoreapp3.1\Web.Service.csprojAssemblyReference.cache
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\obj\Debug\netcoreapp3.1\Web.Service.AssemblyInfoInputs.cache
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\obj\Debug\netcoreapp3.1\Web.Service.AssemblyInfo.cs
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\bin\Debug\netcoreapp3.1\Web.Service.runtimeconfig.json
+C:\Users\mane1\source\repos\WebApplication_DataBase.Example\Web.Service\bin\Debug\netcoreapp3.1\Web.Service.runtimeconfig.dev.json
